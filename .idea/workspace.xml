@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f7c1c10-c262-43e4-a5b4-2f0266469786" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled6.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\wsfyj\IdeaProjects\untitled6\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YwAAX0WAr60BLMZRaUVfTKSD76" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\wsfyj\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f7c1c10-c262-43e4-a5b4-2f0266469786" name="Default Changelist" comment="" />
+      <created>1583843139566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583843139566</updated>
+      <workItem from="1583843141915" duration="210000" />
+      <workItem from="1583843370314" duration="995000" />
+      <workItem from="1583886715512" duration="4293000" />
+      <workItem from="1583892615985" duration="435000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="386" y="251" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1583844104937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="386" y="251" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1536.824@0.0.1536.824" timestamp="1583844104937" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583893138318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583893138318" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1583893050271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583893050271" />
+    <state x="454" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583886716787">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="454" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583886716787" />
+    <state x="445" y="258" width="715" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583889778158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="445" y="258" width="715" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1583889778158" />
+    <state x="237" y="145" key="search.everywhere.popup" timestamp="1583844061831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="237" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583844061831" />
+  </component>
+</project>
